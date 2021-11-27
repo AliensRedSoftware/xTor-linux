@@ -4,16 +4,6 @@
 # Установка
 * Склонировать и запустить <code>./start-tor-browser</code>
 
-# Примечание
-## Включение tor-launcher (Если вы желаете использовать встроенный TOR)
-1. Пожалуйста измените ваш файл `/xTor/Browser/TorBrowser/Data/Browser/profile.default/prefs.js`
-2. Укажите более верную функцию <code>user_pref("extensions.torlauncher.start_tor", true);</code>
-3. Готова :)
-## Выключение tor-launcher (Если вы не желаете использовать встроенный TOR)
-1. Пожалуйста измените ваш файл `/xTor/Browser/TorBrowser/Data/Browser/profile.default/prefs.js`
-2. Укажите более верную функцию <code>user_pref("extensions.torlauncher.start_tor", false);</code>
-3. Готова :)
-
 # Особенности
 1. Полная анонимность
 2. Стабильные расширение
@@ -49,3 +39,13 @@
  [![screenshot(default).png](https://i.postimg.cc/Y97rX0K8/screenshot.png)](https://postimg.cc/Y97rX0K8)
 ## 2
  [![screenshot(default).png](https://i.postimg.cc/MGzJXTBh/screenshot.png)](https://postimg.cc/MGzJXTBh)
+
+# Примечание
+## Включение tor-launcher (Если вы желаете использовать встроенный TOR)
+1. Пожалуйста измените ваш файл `/xTor/Browser/TorBrowser/Data/Browser/profile.default/prefs.js`
+2. Укажите более верную функцию <code>user_pref("extensions.torlauncher.start_tor", true);</code>
+3. Готова :)
+## Выключение tor-launcher (Если вы не желаете использовать встроенный TOR)
+1. Пожалуйста измените ваш файл `/xTor/Browser/TorBrowser/Data/Browser/profile.default/prefs.js`
+2. Укажите более верную функцию <code>user_pref("extensions.torlauncher.start_tor", false);</code>
+3. Готова :)
