@@ -1,5 +1,5 @@
 # xTor
-Модифицированная версия tor браузера
+* Модифицированная версия tor браузера
 
 # Установка
 * Склонировать и запустить <code>./start-tor-browser</code>
@@ -20,27 +20,27 @@
 3. Минимизированный интерфейс веб-браузера
 4. Язык установлен по умл (RU)
 
-# Расширение (<b>16</b>)
-## Оформление (<b>2</b>)
-1. Tree Style Tab - Показывает вкладки вертикальным древовидным списком.
-2. Toolbar Dial - Toolbar Dial is a browser extension that replaces the New Tab page with a colorful grid of bookmarks and folders.
-## VPN (<b>1</b>)
-1. Touch VPN - Secure and unlimited VPN proxy
-## Безопасность (<b>4</b>)
-1. Absolute Enable Right Click & Copy - Force Enable Right Click & Copy
-2. Chameleon - Подменяет профиль вашего браузера. Предоставляет ряд других возможностей повышения конфиденциальности.
-3. uBlock Origin - Наконец-то, быстрый и эффективный блокировщик для браузеров.
-4. NoScript - Максимальная защита вашего браузера: для предотвращения использования уязвимостей NoScript разрешает активное содержимое только для доверенных доменов, выбранных вами.
-## Прочие (<b>9</b>)
-1. Enhancer for YouTube™ - Широчайший функционал для улучшения просмотра видео на YouTube!
-2. Google Переводчик - Современный и мощный переводчик с множеством полезных функций
-3. Greasemonkey - Менеджер пользовательских скриптов для Firefox.
-4. HTTPS Everywhere - Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно.
-5. Material Design Color Palette - Click to Copy - Click to copy Material Design color palette. Copy in #HEX HEX RGB( ) RGBA( ).
-6. Offline QR Code Generator - Позволяет вам создать QR-код для любого открытого вами сайта или вкладки.
-7. Redirect AMP to HTML - Automatically redirects AMP pages to their canonical HTML equivalent.
-8. SaveFrom.net помощник - Скачивайте с Вконтакте, YouTube, Одноклассники и еще 40 сайтов за 1 клик.
-9. Tab Auto Refresh - Automatically refresh tabs based on custom time intervals
+# Расширение (16)
+## Оформление (2)
+1. <b>Tree Style Tab</b> - Показывает вкладки вертикальным древовидным списком.
+2. <b>Toolbar Dial</b> - Toolbar Dial is a browser extension that replaces the New Tab page with a colorful grid of bookmarks and folders.
+## VPN (1)
+1. <b>Touch VPN</b> - Secure and unlimited VPN proxy
+## Безопасность (4)
+1. <b>Absolute Enable Right Click & Copy</b> - Force Enable Right Click & Copy
+2. <b>Chameleon</b> - Подменяет профиль вашего браузера. Предоставляет ряд других возможностей повышения конфиденциальности.
+3. <b>uBlock Origin</b> - Наконец-то, быстрый и эффективный блокировщик для браузеров.
+4. <b>NoScript</b> - Максимальная защита вашего браузера: для предотвращения использования уязвимостей NoScript разрешает активное содержимое только для доверенных доменов, выбранных вами.
+## Прочие (9)
+1. <b>Enhancer for YouTube™</b> - Широчайший функционал для улучшения просмотра видео на YouTube!
+2. <b>Google Переводчик</b> - Современный и мощный переводчик с множеством полезных функций
+3. <b>Greasemonkey</b> - Менеджер пользовательских скриптов для Firefox.
+4. <b>HTTPS Everywhere</b> - Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно.
+5. <b>Material Design Color Palette</b> - Click to Copy - Click to copy Material Design color palette. Copy in #HEX HEX RGB( ) RGBA( ).
+6. <b>Offline QR Code Generator</b> - Позволяет вам создать QR-код для любого открытого вами сайта или вкладки.
+7. <b>Redirect AMP to HTML</b> - Automatically redirects AMP pages to their canonical HTML equivalent.
+8. <b>SaveFrom.net помощник</b> - Скачивайте с Вконтакте, YouTube, Одноклассники и еще 40 сайтов за 1 клик.
+9. <b>Tab Auto Refresh</b> - Automatically refresh tabs based on custom time intervals
 
 # Скриншоты
 ## 0
