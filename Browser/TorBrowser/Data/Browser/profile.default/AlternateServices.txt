@@ -1,3 +1,3 @@
-https:toolbardial.com:443:.::.	0	18958	https:toolbardial.com:443:cflarenuttlfuyn7imozr4atzvfbiw3ezgbdjdldmdx7srterayaozid.onion:443::n:1637984292:h2:n:1637984280:n::|n:n:
-https:media.toolbardial.com:443:.::.	0	18958	https:media.toolbardial.com:443:cflareer7qekzp3zeyqvcfktxfrmncse4ilc7trbf6bp6yzdabxuload.onion:443::n:1637984285:h2:n:1637984280:n::|n:n:
-https:securedrop.org:443:.::.	0	18958	https:securedrop.org:443:cflares35lvdlczhy3r6qbza5jjxbcplzvdveabhf7bsp7y4nzmn67yd.onion:443::n:1637988810:h2:n:1637988797:n::|n:n:
+https:toolbardial.com:443:.::.	0	18958	https:toolbardial.com:443:cflarenuttlfuyn7imozr4atzvfbiw3ezgbdjdldmdx7srterayaozid.onion:443::n:1638030912:h2:n:1637993821:n::|n:n:
+https:media.toolbardial.com:443:.::.	0	18958	https:media.toolbardial.com:443:cflarejlah424meosswvaeqzb54rtdetr4xva6mq2bm2hfcx5isaglid.onion:443::n:1638030911:h2:n:1637993821:n::|n:n:
+https:securedrop.org:443:.::.	0	18959	https:securedrop.org:443:cflare2nge4h4yqr3574crrd7k66lil3torzbisz6uciyuzqc2h2ykyd.onion:443::n:1638080232:h2:n:1637993821:n::|n:n:
