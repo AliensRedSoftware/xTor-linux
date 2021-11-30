@@ -43,10 +43,36 @@
 
 # Примечание
 ## Включение tor-launcher (Если вы желаете использовать встроенный TOR)
-1. Пожалуйста измените ваш файл `/xTor/Browser/TorBrowser/Data/Browser/profile.default/prefs.js`
-2. Укажите более верную функцию <code>user_pref("extensions.torlauncher.start_tor", true);</code>
-3. Готова :)
+1. Пожалуйста установите и запустите наш xTor (Используйте пункт чуть выше)
+2. Укажите более верную функцию в кладке <b>about:config</b> <code>extensions.torlauncher.start_tor</code> на <b>true</b>
+2. Укажите более верную функцию в кладке <b>about:config</b> <code>network.dns.disabled</code> на <b>true</b>
+3. Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.type</code> на <b>1</b>
+4. Пожалуйста откройте наш новый сайт в новой вкладке <b>https://duckduckgo.com</b>
+5. Нажмите пожалуйста кнопку <b>Соединиться</b> и ожидайте наше подключение
+6. Готова :)
+
 ## Выключение tor-launcher (Если вы не желаете использовать встроенный TOR)
-1. Пожалуйста измените ваш файл `/xTor/Browser/TorBrowser/Data/Browser/profile.default/prefs.js`
-2. Укажите более верную функцию <code>user_pref("extensions.torlauncher.start_tor", false);</code>
-3. Готова :)
+1. Пожалуйста установите и запустите наш xTor (Используйте пункт чуть выше)
+2. Укажите более верную функцию в кладке <b>about:config</b> <code>extensions.torlauncher.start_tor</code> на <b>false</b>
+2. Укажите более верную функцию в кладке <b>about:config</b> <code>network.dns.disabled</code> на <b>false</b>
+3. Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.type</code> на <b>0</b>
+4. Пожалуйста откройте наш новый сайт в новой вкладке <b>https://duckduckgo.com</b>
+5. Нажмите пожалуйста кнопку <b>Подключиться</b> и ожидайте наше подключение
+6. Готова :)
+
+## Включение прокси (Если вы не желаете использовать другие прокси)
+1. Пожалуйста установите и запустите наш xTor (Используйте пункт чуть выше)
+2. Используйте пункт <b>Выключение tor-launcher (Если вы не желаете использовать встроенный TOR)</b> (Он чуть выше)
+2. Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.http</code> на Ваш адрес прокси HTTP (<b>127.0.0.1</b>) или использовать SOCKS && Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.socks</code> на Ваш адрес прокси SOCKS (<b>127.0.0.1</b>)
+2. Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.http_port</code> на Ваш адрес прокси HTTP порт (<b>8118</b>) или использовать SOCKS порт && Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.socks_port</code> на Ваш адрес прокси SOCKS порт (<b>8118</b>)
+3. Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.type</code> на <b>1</b>
+4. Пожалуйста откройте наш новый сайт в новой вкладке <b>https://duckduckgo.com</b>
+5. Готова :)
+
+## Установить новую версию SOCKS прокси
+1. Укажите более верную функцию в кладке <b>about:config</b> <code>network.proxy.socks_version</code> на <b>4</b> или <b>5</b>
+2. Готова :)
+
+## Что делать если ошибка подключение ?
+1. Пожалуйста проверьте подключение к прокси или к TOR
+2. Готова :)
