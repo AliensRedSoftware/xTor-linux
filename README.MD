@@ -16,7 +16,7 @@
 2. <b>Toolbar Dial</b> - Toolbar Dial is a browser extension that replaces the New Tab page with a colorful grid of bookmarks and folders.
 ## VPN (1)
 1. <b>Touch VPN</b> - Secure and unlimited VPN proxy
-## Безопасность (5)
+## Безопасность (6)
 1. <b>Absolute Enable Right Click & Copy</b> - Force Enable Right Click & Copy
 2. <b>Chameleon</b> - Подменяет профиль вашего браузера. Предоставляет ряд других возможностей повышения конфиденциальности.
 3. <b>uBlock Origin</b> - Наконец-то, быстрый и эффективный блокировщик для браузеров.
@@ -25,8 +25,8 @@
 6. <b>HTTPS Everywhere</b> - Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно.
 ## Прочие (7)
 1. <b>Enhancer for YouTube™</b> - Широчайший функционал для улучшения просмотра видео на YouTube!
-1. <b>Google Переводчик</b> - Современный и мощный переводчик с множеством полезных функций
-4. <b>Greasemonkey</b> - Менеджер пользовательских скриптов для Firefox.
+2. <b>Google Переводчик</b> - Современный и мощный переводчик с множеством полезных функций
+3. <b>Greasemonkey</b> - Менеджер пользовательских скриптов для Firefox.
 4. <b>Material Design Color Palette</b> - Click to Copy - Click to copy Material Design color palette. Copy in #HEX HEX RGB( ) RGBA( ).
 5. <b>Offline QR Code Generator</b> - Позволяет вам создать QR-код для любого открытого вами сайта или вкладки.
 
