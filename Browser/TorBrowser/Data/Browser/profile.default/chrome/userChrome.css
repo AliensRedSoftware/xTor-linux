@@ -1,9 +1,6 @@
 #back-button, #forward-button { display:none!important; }
 
-#TabsToolbar {
-	visibility: collapse;
-	!important;
-}
+#TabsToolbar { visibility: collapse !important; }
 
 /*Collapse in default state and add transition*/
 #sidebar-box {
