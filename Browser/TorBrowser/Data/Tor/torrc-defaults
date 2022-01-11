@@ -26,6 +26,13 @@ UseEntryGuards 1
 EnforceDistinctSubnets 1
 ClientRejectInternalAddresses 1
 
+#cfg
+TransPort 9140 IsolateClientAddr IsolateSOCKSAuth IsolateClientProtocol IsolateDestPort IsolateDestAddr
+ExitPolicy accept *:53        # DNS
+ExitPolicy accept *:80-81     # HTTP 
+ExitPolicy accept *:443       # HTTPS
+ExitPolicy reject *:*
+
 # Where to send logging messages.  Format is minSeverity[-maxSeverity]
 # (stderr|stdout|syslog|file FILENAME).
 Log notice stdout
