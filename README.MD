@@ -1,4 +1,4 @@
-# xTor
+# xTor-linux
 * Модифицированная версия tor браузера
 
 # Установка
@@ -11,7 +11,7 @@
 4. Язык установлен по умл (<b>RU</b>)
 5. Удаление стандартных шрифтов (<b>fonts</b>)
 
-# Расширение (16)
+# Расширение (17)
 ## Оформление (2)
 1. <b>Tree Style Tab</b> - Показывает вкладки вертикальным древовидным списком.
 2. <b>Toolbar Dial</b> - Toolbar Dial is a browser extension that replaces the New Tab page with a colorful grid of bookmarks and folders.
@@ -24,7 +24,7 @@
 4. <b>NoScript</b> - Максимальная защита вашего браузера: для предотвращения использования уязвимостей NoScript разрешает активное содержимое только для доверенных доменов, выбранных вами.
 5. <b>Redirect AMP to HTML</b> - Automatically redirects AMP pages to their canonical HTML equivalent.
 6. <b>HTTPS Everywhere</b> - Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно.
-## Прочие (7)
+## Прочие (8)
 1. <b>Enhancer for YouTube™</b> - Широчайший функционал для улучшения просмотра видео на YouTube!
 2. <b>Google Переводчик</b> - Современный и мощный переводчик с множеством полезных функций
 3. <b>Greasemonkey</b> - Менеджер пользовательских скриптов для Firefox.
@@ -33,6 +33,7 @@
 
 6. <b>SaveFrom.net помощник</b> - Скачивайте с Вконтакте, YouTube, Одноклассники и еще 40 сайтов за 1 клик.
 7. <b>Tab Auto Refresh</b> - Automatically refresh tabs based on custom time intervals
+8. <b>OneTab</b> - Too many tabs? Convert tabs to a list and reduce browser memory
 
 # Скриншоты
 ## 0
