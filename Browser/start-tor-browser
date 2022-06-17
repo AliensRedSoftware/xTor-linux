@@ -328,8 +328,8 @@ TOR_CONTROL_PASSWD environment variable."
 setControlPortPasswd ${TOR_CONTROL_PASSWD:='"secret"'}
 
 # Set up custom bundled fonts. See fonts-conf(5).
-#export FONTCONFIG_PATH="${HOME}/TorBrowser/Data/fontconfig"
-#export FONTCONFIG_FILE="fonts.conf"
+export FONTCONFIG_PATH="${HOME}/TorBrowser/Data/fontconfig"
+export FONTCONFIG_FILE="fonts.conf"
 
 # Avoid overwriting user's dconf values. Fixes #27903.
 export GSETTINGS_BACKEND=memory
