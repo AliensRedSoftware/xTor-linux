@@ -1,0 +1,21 @@
+# Tor state file last generated on 2022-06-18 00:14:06 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Dormant 0
+Guard in=bridges rsa_id=74FAD13168806246602538555B5521A0383A1875 bridge_addr=209.148.46.65:443 sampled_on=2022-06-17T04:27:55 sampled_idx=0 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=D9A82D2F9C2F65A18407B1D2B764F130847F8B5D bridge_addr=37.218.245.14:38224 sampled_on=2022-06-06T03:48:51 sampled_idx=1 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=2D82C2E354D531A68469ADF7F878FA6060C6BACA bridge_addr=193.11.166.194:27015 sampled_on=2022-06-17T19:33:25 sampled_idx=2 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=5EDAC3B810E12B01F6FD8050D2FD3E277B289A08 bridge_addr=51.222.13.177:80 sampled_on=2022-06-15T00:39:02 sampled_idx=3 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=91A6354697E6B02A386312F68D82CF86824D3606 bridge_addr=85.31.186.26:443 sampled_on=2022-06-13T01:05:46 sampled_idx=4 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=0BAC39417268B96B9F514E7F63FA6FBA1A788955 bridge_addr=38.229.33.83:80 sampled_on=2022-06-08T16:50:28 sampled_idx=5 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=011F2599C0E9B27EE74B353155E244813763C3E5 bridge_addr=85.31.186.98:443 sampled_on=2022-06-15T12:24:09 sampled_idx=6 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=1AE2C08904527FEA90C4C4F8C1083EA59FBC6FAF bridge_addr=193.11.166.194:27025 sampled_on=2022-06-07T01:56:26 sampled_idx=7 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=C5B7CD6946FF10C5B3E89691A7D3F2C122D2117C bridge_addr=45.145.95.6:27015 sampled_on=2022-06-12T00:29:47 sampled_idx=8 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=10A6CD36A537FCE513A322361547444B393989F0 bridge_addr=146.57.248.225:22 sampled_on=2022-06-10T23:00:22 sampled_idx=9 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=CDF2E852BF539B82BD10E27E9115A31734E378C2 bridge_addr=192.95.36.142:443 sampled_on=2022-06-12T15:31:20 sampled_idx=10 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=86AC7B8D430DAC4117E9F42C9EAED18133863AAF bridge_addr=193.11.166.194:27020 sampled_on=2022-06-09T18:36:59 sampled_idx=11 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=C5B7CD6946FF10C5B3E89691A7D3F2C122D2117C bridge_addr=[2a0c:4d80:42:702::1]:27015 sampled_on=2022-06-09T11:13:42 sampled_idx=12 sampled_by=0.4.7.7 listed=1
+Guard in=bridges rsa_id=C8CBDB2464FC9804A69531437BCF2BE31FDD2EE4 bridge_addr=38.229.1.78:80 sampled_on=2022-06-16T18:30:15 sampled_idx=13 sampled_by=0.4.7.7 listed=1
+LastWritten 2022-06-18 00:14:06
+TorVersion Tor 0.4.7.7 (git-929a90a24fd63b44)
