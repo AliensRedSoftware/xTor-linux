@@ -11,37 +11,45 @@
 4. Язык установлен по умл (<b>RU</b>)
 5. Удаление стандартных шрифтов (<b>fonts</b>)
 
-# Расширение (17)
+# Расширение (23)
 ## Оформление (2)
 1. <b>Tree Style Tab</b> - Показывает вкладки вертикальным древовидным списком.
 2. <b>Toolbar Dial</b> - Toolbar Dial is a browser extension that replaces the New Tab page with a colorful grid of bookmarks and folders.
 ## VPN (1)
-1. <b>Touch VPN</b> - Secure and unlimited VPN proxy
-## Безопасность (6)
+1. <b>Touch VPN</b> - Secure and unlimited VPN proxyя
+## Безопасность (8)
 1. <b>Absolute Enable Right Click & Copy</b> - Force Enable Right Click & Copy
 2. <b>Chameleon</b> - Подменяет профиль вашего браузера. Предоставляет ряд других возможностей повышения конфиденциальности.
 3. <b>uBlock Origin</b> - Наконец-то, быстрый и эффективный блокировщик для браузеров.
 4. <b>NoScript</b> - Максимальная защита вашего браузера: для предотвращения использования уязвимостей NoScript разрешает активное содержимое только для доверенных доменов, выбранных вами.
 5. <b>Redirect AMP to HTML</b> - Automatically redirects AMP pages to their canonical HTML equivalent.
 6. <b>HTTPS Everywhere</b> - Зашифруйте сеть! Автоматически переключайтесь на безопасный протокол HTTPS там, где это возможно.
-## Прочие (8)
+7. <b>Wayback Machine</b> - The Official Wayback Machine Extension - by the Internet Archive.
+8. <b>WOT: безопасность сайтов и защита онлайн</b> - Проверяйте репутацию и безопасность сайтов, заручившись опытом других пользователей. Официальное расширение Web of Trust для Chrome.
+## Прочие (12)
 1. <b>Enhancer for YouTube™</b> - Широчайший функционал для улучшения просмотра видео на YouTube!
 2. <b>Google Переводчик</b> - Современный и мощный переводчик с множеством полезных функций
 3. <b>Greasemonkey</b> - Менеджер пользовательских скриптов для Firefox.
 4. <b>Material Design Color Palette</b> - Click to Copy - Click to copy Material Design color palette. Copy in #HEX HEX RGB( ) RGBA( ).
 5. <b>Offline QR Code Generator</b> - Позволяет вам создать QR-код для любого открытого вами сайта или вкладки.
-
 6. <b>SaveFrom.net помощник</b> - Скачивайте с Вконтакте, YouTube, Одноклассники и еще 40 сайтов за 1 клик.
 7. <b>Tab Auto Refresh</b> - Automatically refresh tabs based on custom time intervals
 8. <b>OneTab</b> - Too many tabs? Convert tabs to a list and reduce browser memory
+9. <b>Brave search</b> - Adds Brave search as a search engine.
+10. <b>Ecosia - The search engine that plants trees</b> - This extension sets your search engine to Ecosia so you can plant trees with every search.
+11. <b>Microsoft Bing Search Engine</b> - Set your search engine to Bing.com to check out the latest news, entertainment and sports each day and turn your searching into doing with Microsoft Bing.
+12. <b>Qwant Lite</b> - Qwant Lite: the search engine that respects your privacy
+
+# Donate (деньги только на лечение)
+URL ADDRESS - https://github.com/AliensRedSoftware/slim-space
 
 # Скриншоты
 ## 0
- [![screenshot(default).png](https://i.postimg.cc/QMYqZ695/screenshot.png)](https://postimg.cc/QMYqZ695)
+ [![screenshot(default).png](https://i.postimg.cc/8CwwQcHL/screenshot.png)](https://postimg.cc/8CwwQcHL)
 ## 1
- [![screenshot(default).png](https://i.postimg.cc/Y97rX0K8/screenshot.png)](https://postimg.cc/Y97rX0K8)
+ [![screenshot(default).png](https://i.postimg.cc/brY0M8Hd/screenshot.png)](https://postimg.cc/brY0M8Hd)
 ## 2
- [![screenshot(default).png](https://i.postimg.cc/MGzJXTBh/screenshot.png)](https://postimg.cc/MGzJXTBh)
+ [![screenshot(default).png](https://i.postimg.cc/FFSW-1rsX/screenshot.png)](https://postimg.cc/FFSW-1rsX)
 
 # Примечание
 ## Включение tor-launcher (Если вы желаете использовать встроенный TOR)
