@@ -1,8 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Version=1.0
-Type=Application
-NoDisplay=true
-Exec=/home/localhost/t/xTor-linux/Browser/firefox.real %u
-Name=Tor Browser
-Comment=Custom definition for Tor Browser
