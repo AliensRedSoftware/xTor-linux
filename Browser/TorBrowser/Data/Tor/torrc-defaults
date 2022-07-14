@@ -27,7 +27,7 @@ UseEntryGuards 1
 EnforceDistinctSubnets 1
 ClientRejectInternalAddresses 1
 
-#cfg
+#cfg HTTP PROCCESS TOR
 TransPort 9140 IsolateClientAddr IsolateSOCKSAuth IsolateClientProtocol IsolateDestPort IsolateDestAddr
 ExitPolicy accept *:53        # DNS
 ExitPolicy accept *:80-81     # HTTP 

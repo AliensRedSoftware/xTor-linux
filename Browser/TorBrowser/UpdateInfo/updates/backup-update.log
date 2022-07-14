@@ -1,0 +1,51 @@
+PATCH DIRECTORY /home/localhost/t/xTor-linux/Browser/TorBrowser/UpdateInfo/updates/0
+INSTALLATION DIRECTORY /home/localhost/t/xTor-linux/Browser
+WORKING DIRECTORY /home/localhost/t/xTor-linux/Browser
+UPDATE TYPE partial
+PREPARE PATCH updater
+PREPARE PATCH tbb_version.json
+PREPARE ADD removed-files
+PREPARE ADD precomplete
+PREPARE PATCH platform.ini
+PREPARE PATCH omni.ja
+PREPARE PATCH libxul.so
+PREPARE PATCH firefox.real
+PREPARE PATCH browser/omni.ja
+PREPARE PATCH application.ini
+PREPARE PATCH TorBrowser/Tor/tor
+PREPARE PATCH TorBrowser/Docs/ChangeLog.txt
+PREPARE PATCH TorBrowser/Data/Tor/geoip6
+PREPARE PATCH TorBrowser/Data/Tor/geoip
+EXECUTE PATCH updater
+EXECUTE PATCH tbb_version.json
+EXECUTE ADD removed-files
+EXECUTE ADD precomplete
+EXECUTE PATCH platform.ini
+EXECUTE PATCH omni.ja
+EXECUTE PATCH libxul.so
+EXECUTE PATCH firefox.real
+EXECUTE PATCH browser/omni.ja
+EXECUTE PATCH application.ini
+EXECUTE PATCH TorBrowser/Tor/tor
+EXECUTE PATCH TorBrowser/Docs/ChangeLog.txt
+unable to open destination file: TorBrowser/Docs/ChangeLog.txt, err: 2
+### execution failed
+FINISH PATCH updater
+FINISH PATCH tbb_version.json
+FINISH ADD removed-files
+FINISH ADD precomplete
+FINISH PATCH platform.ini
+FINISH PATCH omni.ja
+FINISH PATCH libxul.so
+FINISH PATCH firefox.real
+FINISH PATCH browser/omni.ja
+FINISH PATCH application.ini
+FINISH PATCH TorBrowser/Tor/tor
+FINISH PATCH TorBrowser/Docs/ChangeLog.txt
+backup_restore: cannot get info for backup file: TorBrowser/Docs/ChangeLog.txt.moz-backup, err: 2
+FINISH PATCH TorBrowser/Data/Tor/geoip6
+backup_restore: cannot get info for backup file: TorBrowser/Data/Tor/geoip6.moz-backup, err: 2
+FINISH PATCH TorBrowser/Data/Tor/geoip
+backup_restore: cannot get info for backup file: TorBrowser/Data/Tor/geoip.moz-backup, err: 2
+failed: 6
+calling QuitProgressUI
