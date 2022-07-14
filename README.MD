@@ -1,8 +1,10 @@
 # xTor-linux
 * Модифицированная версия tor браузера
 
-# Установка
-* Склонировать и запустить <code>./Browser/tor.sh</code>
+# Установка (LINUX)
+* Открыть наш умный terminal
+* Пожалуйста склонируйте наш репозиторий набором команд -> <code>git clone https://github.com/AliensRedSoftware/xTor-linux</code>
+* start app -> <code>./Browser/tor.sh</code>
 
 # Особенности
 1. Полная анонимность
