@@ -3,7 +3,7 @@
 
 # Установка (LINUX)
 * Открыть наш умный terminal
-* Пожалуйста склонируйте наш репозиторий набором команд -> <code>git clone https://github.com/AliensRedSoftware/xTor-linux</code>
+* Пожалуйста склонируйте наш репозиторий набором команд -> <code>git-lfs clone https://github.com/AliensRedSoftware/xTor-linux</code>
 * start app -> <code>./Browser/tor.sh</code>
 
 # Особенности
