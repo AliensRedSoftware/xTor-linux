@@ -1,2 +1,0 @@
-https:toolbardial.com:443:.::.	0	19187	https:toolbardial.com:443:cflarexljc3rw355ysrkrzwapozws6nre6xsy3n4yrj7taye3uiby3ad.onion:443::n:1657821310:h2:n:1657778383:n::|n:n:
-https:media.toolbardial.com:443:.::.	0	19187	https:media.toolbardial.com:443:cflarenuttlfuyn7imozr4atzvfbiw3ezgbdjdldmdx7srterayaozid.onion:443::n:1657821310:h2:n:1657778383:n::|n:n:

@@ -1,51 +1,121 @@
-PATCH DIRECTORY /home/localhost/t/xTor-linux/Browser/TorBrowser/UpdateInfo/updates/0
-INSTALLATION DIRECTORY /home/localhost/t/xTor-linux/Browser
-WORKING DIRECTORY /home/localhost/t/xTor-linux/Browser
-UPDATE TYPE partial
-PREPARE PATCH updater
-PREPARE PATCH tbb_version.json
-PREPARE ADD removed-files
-PREPARE ADD precomplete
-PREPARE PATCH platform.ini
-PREPARE PATCH omni.ja
-PREPARE PATCH libxul.so
-PREPARE PATCH firefox.real
-PREPARE PATCH browser/omni.ja
-PREPARE PATCH application.ini
-PREPARE PATCH TorBrowser/Tor/tor
-PREPARE PATCH TorBrowser/Docs/ChangeLog.txt
-PREPARE PATCH TorBrowser/Data/Tor/geoip6
-PREPARE PATCH TorBrowser/Data/Tor/geoip
-EXECUTE PATCH updater
-EXECUTE PATCH tbb_version.json
-EXECUTE ADD removed-files
-EXECUTE ADD precomplete
-EXECUTE PATCH platform.ini
-EXECUTE PATCH omni.ja
-EXECUTE PATCH libxul.so
-EXECUTE PATCH firefox.real
-EXECUTE PATCH browser/omni.ja
-EXECUTE PATCH application.ini
-EXECUTE PATCH TorBrowser/Tor/tor
-EXECUTE PATCH TorBrowser/Docs/ChangeLog.txt
-unable to open destination file: TorBrowser/Docs/ChangeLog.txt, err: 2
-### execution failed
-FINISH PATCH updater
-FINISH PATCH tbb_version.json
-FINISH ADD removed-files
-FINISH ADD precomplete
-FINISH PATCH platform.ini
-FINISH PATCH omni.ja
-FINISH PATCH libxul.so
-FINISH PATCH firefox.real
-FINISH PATCH browser/omni.ja
-FINISH PATCH application.ini
-FINISH PATCH TorBrowser/Tor/tor
-FINISH PATCH TorBrowser/Docs/ChangeLog.txt
-backup_restore: cannot get info for backup file: TorBrowser/Docs/ChangeLog.txt.moz-backup, err: 2
-FINISH PATCH TorBrowser/Data/Tor/geoip6
-backup_restore: cannot get info for backup file: TorBrowser/Data/Tor/geoip6.moz-backup, err: 2
-FINISH PATCH TorBrowser/Data/Tor/geoip
-backup_restore: cannot get info for backup file: TorBrowser/Data/Tor/geoip.moz-backup, err: 2
-failed: 6
-calling QuitProgressUI
+2025-05-30 12:15:38+0700: sUsingService=false
+2025-05-30 12:15:38+0700: sUpdateSilently=false
+2025-05-30 12:15:38+0700: gIsElevated=false
+2025-05-30 12:15:38+0700: Writing status to file: applying
+2025-05-30 12:15:38+0700: PATCH DIRECTORY /home/localhost/xTor-linux/Browser/TorBrowser/UpdateInfo/updates/0
+2025-05-30 12:15:38+0700: INSTALLATION DIRECTORY /home/localhost/xTor-linux/Browser
+2025-05-30 12:15:38+0700: WORKING DIRECTORY /home/localhost/xTor-linux/Browser
+2025-05-30 12:15:38+0700: UPDATE TYPE partial
+2025-05-30 12:15:38+0700: PREPARE PATCH vaapitest
+2025-05-30 12:15:38+0700: PREPARE PATCH updater
+2025-05-30 12:15:38+0700: PREPARE PATCH tbb_version.json
+2025-05-30 12:15:38+0700: PREPARE ADD removed-files
+2025-05-30 12:15:38+0700: PREPARE ADD precomplete
+2025-05-30 12:15:38+0700: PREPARE PATCH platform.ini
+2025-05-30 12:15:38+0700: PREPARE PATCH omni.ja
+2025-05-30 12:15:38+0700: PREPARE PATCH libxul.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libssl3.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libsoftokn3.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libsmime3.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libplds4.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libplc4.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libnssutil3.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libnssckbi.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libnss3.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libnspr4.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libmozwayland.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libmozsqlite3.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libmozsandbox.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libmozgtk.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libmozavutil.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libmozavcodec.so
+2025-05-30 12:15:39+0700: PREPARE PATCH liblgpllibs.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libipcclientcerts.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libgkcodecs.so
+2025-05-30 12:15:39+0700: PREPARE PATCH libfreeblpriv3.so
+2025-05-30 12:15:39+0700: PREPARE PATCH glxtest
+2025-05-30 12:15:39+0700: PREPARE PATCH firefox.real
+2025-05-30 12:15:39+0700: PREPARE PATCH distribution/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2025-05-30 12:15:39+0700: PREPARE PATCH browser/omni.ja
+2025-05-30 12:15:39+0700: PREPARE PATCH application.ini
+2025-05-30 12:15:39+0700: PREPARE PATCH TorBrowser/Tor/PluggableTransports/lyrebird
+2025-05-30 12:15:39+0700: PREPARE PATCH TorBrowser/Tor/PluggableTransports/conjure-client
+2025-05-30 12:15:39+0700: PREPARE PATCH TorBrowser/Docs/ChangeLog.txt
+2025-05-30 12:15:39+0700: PREPARE ADD TorBrowser/Data/Browser/profile.default/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2025-05-30 12:15:39+0700: EXECUTE PATCH vaapitest
+2025-05-30 12:15:39+0700: EXECUTE PATCH updater
+2025-05-30 12:15:39+0700: EXECUTE PATCH tbb_version.json
+2025-05-30 12:15:39+0700: EXECUTE ADD removed-files
+2025-05-30 12:15:39+0700: EXECUTE ADD precomplete
+2025-05-30 12:15:39+0700: EXECUTE PATCH platform.ini
+2025-05-30 12:15:39+0700: EXECUTE PATCH omni.ja
+2025-05-30 12:15:40+0700: EXECUTE PATCH libxul.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libssl3.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libsoftokn3.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libsmime3.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libplds4.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libplc4.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libnssutil3.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libnssckbi.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libnss3.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libnspr4.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libmozwayland.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libmozsqlite3.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libmozsandbox.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libmozgtk.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libmozavutil.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libmozavcodec.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH liblgpllibs.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libipcclientcerts.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libgkcodecs.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH libfreeblpriv3.so
+2025-05-30 12:15:41+0700: EXECUTE PATCH glxtest
+2025-05-30 12:15:41+0700: EXECUTE PATCH firefox.real
+2025-05-30 12:15:41+0700: EXECUTE PATCH distribution/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2025-05-30 12:15:41+0700: EXECUTE PATCH browser/omni.ja
+2025-05-30 12:15:41+0700: EXECUTE PATCH application.ini
+2025-05-30 12:15:41+0700: EXECUTE PATCH TorBrowser/Tor/PluggableTransports/lyrebird
+2025-05-30 12:15:42+0700: EXECUTE PATCH TorBrowser/Tor/PluggableTransports/conjure-client
+2025-05-30 12:15:42+0700: EXECUTE PATCH TorBrowser/Docs/ChangeLog.txt
+2025-05-30 12:15:42+0700: EXECUTE ADD TorBrowser/Data/Browser/profile.default/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2025-05-30 12:15:42+0700: FINISH PATCH vaapitest
+2025-05-30 12:15:42+0700: FINISH PATCH updater
+2025-05-30 12:15:42+0700: FINISH PATCH tbb_version.json
+2025-05-30 12:15:42+0700: FINISH ADD removed-files
+2025-05-30 12:15:42+0700: FINISH ADD precomplete
+2025-05-30 12:15:42+0700: FINISH PATCH platform.ini
+2025-05-30 12:15:42+0700: FINISH PATCH omni.ja
+2025-05-30 12:15:42+0700: FINISH PATCH libxul.so
+2025-05-30 12:15:42+0700: FINISH PATCH libssl3.so
+2025-05-30 12:15:42+0700: FINISH PATCH libsoftokn3.so
+2025-05-30 12:15:42+0700: FINISH PATCH libsmime3.so
+2025-05-30 12:15:42+0700: FINISH PATCH libplds4.so
+2025-05-30 12:15:42+0700: FINISH PATCH libplc4.so
+2025-05-30 12:15:42+0700: FINISH PATCH libnssutil3.so
+2025-05-30 12:15:42+0700: FINISH PATCH libnssckbi.so
+2025-05-30 12:15:42+0700: FINISH PATCH libnss3.so
+2025-05-30 12:15:42+0700: FINISH PATCH libnspr4.so
+2025-05-30 12:15:42+0700: FINISH PATCH libmozwayland.so
+2025-05-30 12:15:42+0700: FINISH PATCH libmozsqlite3.so
+2025-05-30 12:15:42+0700: FINISH PATCH libmozsandbox.so
+2025-05-30 12:15:42+0700: FINISH PATCH libmozgtk.so
+2025-05-30 12:15:42+0700: FINISH PATCH libmozavutil.so
+2025-05-30 12:15:42+0700: FINISH PATCH libmozavcodec.so
+2025-05-30 12:15:42+0700: FINISH PATCH liblgpllibs.so
+2025-05-30 12:15:42+0700: FINISH PATCH libipcclientcerts.so
+2025-05-30 12:15:42+0700: FINISH PATCH libgkcodecs.so
+2025-05-30 12:15:42+0700: FINISH PATCH libfreeblpriv3.so
+2025-05-30 12:15:42+0700: FINISH PATCH glxtest
+2025-05-30 12:15:42+0700: FINISH PATCH firefox.real
+2025-05-30 12:15:42+0700: FINISH PATCH distribution/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2025-05-30 12:15:42+0700: FINISH PATCH browser/omni.ja
+2025-05-30 12:15:42+0700: FINISH PATCH application.ini
+2025-05-30 12:15:42+0700: FINISH PATCH TorBrowser/Tor/PluggableTransports/lyrebird
+2025-05-30 12:15:42+0700: FINISH PATCH TorBrowser/Tor/PluggableTransports/conjure-client
+2025-05-30 12:15:42+0700: FINISH PATCH TorBrowser/Docs/ChangeLog.txt
+2025-05-30 12:15:42+0700: FINISH ADD TorBrowser/Data/Browser/profile.default/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2025-05-30 12:15:42+0700: succeeded
+2025-05-30 12:15:42+0700: Writing status to file: succeeded
+
+2025-05-30 12:15:42+0700: calling QuitProgressUI
+2025-05-30 12:15:42+0700: Running LaunchCallbackAndPostProcessApps

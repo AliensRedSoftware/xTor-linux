@@ -9,16 +9,16 @@
 # directory. When run from the file manager or desktop GUI, it is relocatable.
 #
 # After first invocation, it will update itself with the absolute path to the
-# current TBB location, to support relocation of this .desktop file for GUI
+# current Tor Browser location, to support relocation of this .desktop file for GUI
 # invocation. You can also add Tor Browser to your desktop's application menu
 # by running './start-tor-browser.desktop --register-app'
 #
-# If you use --register-app, and then relocate your TBB directory, Tor Browser
+# If you use --register-app, and then relocate your Tor Browser directory, Tor Browser
 # will no longer launch from your desktop's app launcher/dock. However, if you
 # re-run --register-app from inside that new directory, the script
 # will correct the absolute paths and re-register itself.
 #
-# This file will also still function if the path changes when TBB is used as a
+# This file will also still function if the path changes when Tor Browser is used as a
 # portable app, so long as it is run directly from that new directory, either
 # via the shell or via the file manager.
 
@@ -26,9 +26,10 @@
 Type=Application
 Name=Tor Browser Setup
 GenericName=Web Browser
-Comment=Tor Browser is +1 for privacy and −1 for mass surveillance
+Comment=Tor Browser  is +1 for privacy and −1 for mass surveillance
 Categories=Network;WebBrowser;Security;
-Exec=sh -c '"$(dirname "$*")"/Browser/start-tor-browser --detach || ([ ! -x "$(dirname "$*")"/Browser/start-tor-browser ] && "$(dirname "$*")"/start-tor-browser --detach)' dummy %k
+Exec=sh -c '"$(dirname "$*")"/Browser/start-tor-browser || ([ ! -x "$(dirname "$*")"/Browser/start-tor-browser ] && "$(dirname "$*")"/start-tor-browser)' dummy %k
 X-TorBrowser-ExecShell=./Browser/start-tor-browser --detach
-Icon=web-browser
+Icon=/home/localhost/xTor-linux/Browser/browser/chrome/icons/default/default128.png
+StartupNotify=true
 StartupWMClass=Tor Browser
